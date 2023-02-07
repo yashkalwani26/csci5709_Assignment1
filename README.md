@@ -9,7 +9,7 @@
 ## Links
 
 * GitLab Assignment 1 Link: https://git.cs.dal.ca/kalwani/csci5709.git
-* Netlify Website Link: https://yash-kalwani-csci5709.netlify.app/
+* Netlify Website Link: https://yash-kalwani-csci5709-a1.netlify.app/
 
 React is used for the UI and it is a popular and rapidly growing framework.
 
