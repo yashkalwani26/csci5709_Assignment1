@@ -12,6 +12,7 @@
 * Netlify Website Link: https://yash-kalwani-csci5709-a1.netlify.app/
 
 React is used for the UI and it is a popular and rapidly growing framework.
+React application is deployed on Netlify. React is used to divided the components in the app.
 
 ## Authors
 
